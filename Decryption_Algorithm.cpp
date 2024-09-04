@@ -88,7 +88,7 @@ int findkey(string s)
 		}
 		
 			fstream fs;
-        	fs.open("dictionary.txt",ios::in);
+        	fs.open("Dictionary.txt",ios::in);
         	string word;
         	
 		while(fs>>word)
