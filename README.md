@@ -65,6 +65,6 @@ Decryption of `"CCTJWU EEVSR GHGHG"` will use a key of `-2` to return to `"AARHU
 
 ## Files
 
-- `encryption_algorithm.py`: Contains the encryption algorithm.
-- `decryption_algorithm.py`: Contains the decryption algorithm.
+- `Encryption_Algorithm.cpp`: Contains the encryption algorithm.
+- `Decryption_Algorithm.cpp`: Contains the decryption algorithm.
 - `Dictionary.txt`: A sample dictionary for decryption.
